@@ -1,3 +1,4 @@
+[![Build And Deploy](https://github.com/sdip15fa/warsinhk/actions/workflows/deploy.yaml/badge.svg)](https://github.com/sdip15fa/warsinhk/actions/workflows/deploy.yaml)
 <div align="center">
 <h1>
   COVID-19 in HK｜武漢肺炎民間資訊
