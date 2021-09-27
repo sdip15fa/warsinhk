@@ -40,8 +40,8 @@ jobs:
         publish_dir: ./public
         force_orphan: true 
         personal_token: ${{ secrets.DEPLOY_GITHUB_TOKEN }}
-        external_repository: vote4hk/wars.vote4.hk
-        cname: wars.vote4.hk
+        external_repository: sdip15fa/wars.vote4.hk
+        cname: wars-dev.johnniewong.tech
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
     - name: Deploy to Github Page (EN)
@@ -50,7 +50,7 @@ jobs:
         publish_dir: ./public
         force_orphan: true 
         personal_token: ${{ secrets.DEPLOY_GITHUB_TOKEN }}
-        external_repository: vote4hk/covid19.vote4.hk
-        cname: covid19.vote4.hk
+        external_repository: sdip15fa/covid19.vote4.hk
+        cname: wars.johnniewong.tech
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
